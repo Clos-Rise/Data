@@ -1,6 +1,6 @@
 {
   "import": {
-    "file": "путь/к/data2.json"
+    "file": "путь/к/data2.jsonl"
   },
   "data": [
     {
